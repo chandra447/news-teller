@@ -1,0 +1,11 @@
+to check the list of branches:
+
+git branch
+
+To create a new branch:
+
+git branch <new_branch_name>
+
+To move to a particular branch
+
+git checkout <branch_name>
